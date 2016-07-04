@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TrenchKing]]></title>
         <description><![CDATA[TrenchKing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://trenchking.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 04:55:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jul 2016 05:14:17 GMT</lastBuildDate>
+        <atom:link href="http://trenchking.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a55c7201-bded-4e09-b074-f5dbdada3336.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a55c7201-bded-4e09-b074-f5dbdada3336.jpg</link>
+            <guid isPermaLink="false">81540077-1a0d-4930-a4d5-e2a3b8388190</guid>
+            <pubDate>Mon, 04 Jul 2016 05:14:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e7b6c30-58f4-4f4d-b2d0-5449b342c1b8.jpg">]]></description>
-            <link>undefined9cefc133-048c-4e49-9f29-98b9de5d6aba/index.html</link>
+            <link>http://trenchking.com/9cefc133-048c-4e49-9f29-98b9de5d6aba/index.html</link>
             <guid isPermaLink="false">9cefc133-048c-4e49-9f29-98b9de5d6aba</guid>
             <pubDate>Mon, 04 Jul 2016 04:55:11 GMT</pubDate>
         </item>
